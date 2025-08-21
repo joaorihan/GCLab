@@ -21,7 +21,7 @@ class Program
         tracker.Track("lohBuffer", lohBuffer);
 
         // 3) Pinned buffer mantido por muito tempo
-        var pinner = new Pinner();
+        using var pinner = new Pinner();
         var pinned = pinner.PinLongTime();
         tracker.Track("pinnedBuffer", pinned);
 
