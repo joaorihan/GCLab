@@ -5,6 +5,14 @@ O objetivo é **analisar e corrigir problemas de memória** em uma aplicação s
 
 ---
 
+## Grupo
+
+- João Rihan rm99656
+- Rodrigo Fernandes rm550816
+
+---
+
+
 ## 🎯 Objetivo do Desafio
 
 - Identificar más práticas que causam:
